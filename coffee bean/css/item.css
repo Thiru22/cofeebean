@@ -1,0 +1,73 @@
+img{
+        max-width: 400px;
+    
+    }
+
+
+
+.navbar{
+    background: rgba(255,255,255,0.6);
+    box-shadow: 1px 2px rgba(0,0,0,0.3);
+    }
+
+.navbar ul{
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.nav-tabs{
+    
+    margin-top: 200px;
+    padding-bottom: 25px;
+    font-size: 20px;
+    font-feature-settings: normal;
+    font-kerning: auto;
+    animation-direction: reverse;
+    background-attachment: scroll
+    
+}
+.nav button{
+    background: none;
+    border: 1px solid black;
+    padding: 5px 20px;
+    margin: 10px 20px;    
+}
+#HotCoffee img{
+    max-width: 300px;
+    margin: 10px;
+    background-blend-mode: hard-light
+    
+}
+#HotCoffee:hover1{
+    tab-size: 50px;
+}
+#HotCoffee h5,p{
+    text-align: center;
+    font-style: oblique;
+ 
+}
+
+#ColdCoffee img{
+    max-width: 300px;
+    margin: 10px;
+}
+
+#ColdCoffee h5,p{
+    text-align: center;
+    font-style: oblique;
+    font-language-override: normal;
+    font-display: optional
+    
+}
+
+
+.nav-tabs {
+    border-bottom: 1px solid black !important;
+}
+
+.content{
+    margin-bottom: 50px;
+}
+
+
